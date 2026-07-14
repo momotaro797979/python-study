@@ -1,0 +1,1 @@
+print(df["タイプ"].value_counts())
