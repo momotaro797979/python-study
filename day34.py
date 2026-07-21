@@ -8,4 +8,4 @@ pokemon = {
 
 df = pd.DataFrame(pokemon)
 
-print(df.head())
+print(df.shape)

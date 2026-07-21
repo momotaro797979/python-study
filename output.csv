@@ -1,0 +1,4 @@
+date,level,message
+2026-07-21,INFO,Login Success
+2026-07-21,WAARNING,Disk usage 80%
+"2026-07-21,ERROR",Database connection failed

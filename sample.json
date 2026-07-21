@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2026-07-21",
+        "level": "INFO",
+        "message": "Login Success"
+    },
+    {
+        "date": "2026-07-21",
+        "level": "WARNING",
+        "message": "Disk usage 80%"
+    },
+    {
+        "date": "2026-07-21",
+        "level": "ERROR",
+        "message": "Database connection failed"
+    }
+]
